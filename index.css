@@ -47,8 +47,6 @@ nav a:hover {
     transform: translateY(70px) rotate(0deg);     
 
 }
-
-
 .btn {
     border-radius: 8px;
     width: 100px;
@@ -61,9 +59,3 @@ nav a:hover {
     font-size: 55px;
     transition: 1s;
 }
-
-/* .projects{
-    display: flex;
-    align-items: start;
-    justify-content: start;
-} */
